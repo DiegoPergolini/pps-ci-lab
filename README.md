@@ -31,7 +31,7 @@ Clone your own fork locally, create `develop`, and push it on your remote copy.
 
 ## Step 4: basic Java build
 
-Each team member, working on `develop`, must create a Java class in the `src/main/java`.
+Each team member, working on `develop`, must create a Java class in the `src/main/main.java`.
 There must not be any name clash among team members.
 Each member must configure the `build.gradle` file in such a way that `gradle clean build` will correctly create a `build` folder with the class files compiled.
 
